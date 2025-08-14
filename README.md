@@ -147,45 +147,51 @@ aptos move publish --named-addresses warranty_system=YOUR_ADDRESS
 ## 📸 **Implementation Screenshots**
 
 ### **🏠 Dashboard Overview**
-![Dashboard](<img width="1919" height="932" alt="image" src="https://github.com/user-attachments/assets/7fd3b576-001b-4d1b-81da-f435f1f69969" />
-)
+<img width="1919" height="968" alt="image" src="https://github.com/user-attachments/assets/23fe6c39-bb9a-408b-98e2-5eef9dd5cc0c" />
+
 *Main dashboard showing system overview, quick stats, and role selection cards*
 
 ### **🔗 Wallet Connection**
-![Wallet Connection](<img width="1906" height="969" alt="image" src="https://github.com/user-attachments/assets/6e1c1e5d-d7cc-4180-b76f-d4461d29038a" />
-)
-(<img width="1915" height="959" alt="image" src="https://github.com/user-attachments/assets/d6ed69d9-dc5e-4dff-8352-989be73488f7" />)
+<img width="1907" height="952" alt="image" src="https://github.com/user-attachments/assets/24feef0b-998c-45df-830d-adde4788e4cb" />
+<img width="1918" height="974" alt="image" src="https://github.com/user-attachments/assets/1f3ca8a1-a3d5-4698-84f2-80320ea45ad0" />
+<img width="1908" height="961" alt="image" src="https://github.com/user-attachments/assets/f07aecfb-157c-4e45-87a5-186d3ebb672b" />
+<img width="1919" height="966" alt="image" src="https://github.com/user-attachments/assets/265e2056-6eeb-484b-9326-fff83f8138d5" />
+
+
+
+
 
 *Petra wallet integration with connection modal and status display*
 
 ### **🏢 Company Portal**
-![Company Portal](<img width="1910" height="964" alt="image" src="https://github.com/user-attachments/assets/16320b67-3342-4fc5-9a6d-2a5d97bcf6d2" />
-)
+<img width="1919" height="966" alt="image" src="https://github.com/user-attachments/assets/8d70df40-7534-4bb4-ac3e-5fe339ae1641" />
+
 *Company interface for minting warranties and managing products*
 
 ### **🏪 Seller Portal**
-![Seller Portal](<img width="1912" height="966" alt="image" src="https://github.com/user-attachments/assets/3c41748d-5c93-49e0-9397-2c479cffa13a" />
-)
+<img width="1919" height="951" alt="image" src="https://github.com/user-attachments/assets/3f9a60ff-599f-45bc-9bfc-464e718a62cf" />
+
 *Seller dashboard for managing inventory and tracking sales*
 
 ### **👤 Customer Portal**
-![Customer Portal](<img width="1919" height="966" alt="image" src="https://github.com/user-attachments/assets/06ce8244-bad4-474d-8c5a-3f3f84b76fe2" />
-)
-(<img width="1915" height="956" alt="image" src="https://github.com/user-attachments/assets/901e604a-b485-42a0-9a30-fd473223e274" />
+<img width="1919" height="948" alt="image" src="https://github.com/user-attachments/assets/509210a0-ff18-44be-862b-b837be56beff" />
+<img width="1909" height="956" alt="image" src="https://github.com/user-attachments/assets/7259a0e8-6028-4296-8276-d5024406aa3b" />
+<img width="1913" height="973" alt="image" src="https://github.com/user-attachments/assets/2512981e-7c43-4c3f-a3ef-2767c5b83fa6" />
+<img width="1915" height="968" alt="image" src="https://github.com/user-attachments/assets/eaaeb11d-f6aa-4ce1-924d-dd22ea9f123b" />
 
-)
-(<img width="1912" height="941" alt="image" src="https://github.com/user-attachments/assets/d897602f-226e-4df5-a7c8-5c5a4de75d39" />
-)
+
+
+
 *Customer interface for viewing and transferring warranty NFTs*
 
 ### **🔧 Service Center Portal**
-![Service Center](<img width="1919" height="965" alt="image" src="https://github.com/user-attachments/assets/2c87fcee-a315-4538-a437-c8fe5f283525" />
-)
+<img width="1910" height="970" alt="image" src="https://github.com/user-attachments/assets/76230d09-5e25-40c7-b962-8fd897ade968" />
+
 *Service center interface for warranty verification and extension*
 
 ### **👑 Admin Portal**
-![Admin Portal](<img width="1915" height="974" alt="image" src="https://github.com/user-attachments/assets/76bda17c-71a1-4695-84ad-3dca24182738" />
-)
+<img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/dab87e99-036c-42e3-bb7d-2367abc30c3d" />
+
 *Administrative dashboard for system oversight and role management*
 
 ---
