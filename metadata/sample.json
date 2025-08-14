@@ -1,0 +1,12 @@
+{
+  "name": "Warranty: Phone Z (PID-001)",
+  "description": "Digital Warranty Certificate for Phone Z. Transferable until expiry.",
+  "image": "https://warranty-system.com/images/phone_z.png",
+  "external_url": "https://warranty-system.com/products/PID-001",
+  "attributes": [
+    { "trait_type": "Product", "value": "Phone Z" },
+    { "trait_type": "Product ID", "value": "PID-001" },
+    { "trait_type": "Warranty Months", "value": "12" },
+    { "trait_type": "Issuer", "value": "Acme Co" }
+  ]
+}

@@ -1,0 +1,13 @@
+[package]
+name = "warranty_verification"  # Updated to match directory name
+version = "1.0.0"
+authors = ["Your Team"]
+license = "Apache-2.0"
+
+[addresses]
+warranty_system = "0x1948138c42b20f0c589f1861c589bc6b09943502aa6d9f5ffae278d67e5c59a3"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework", rev = "main" }
+MoveStdlib = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/move-stdlib", rev = "main" }
+AptosTokenObjects = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-token-objects", rev = "main" }
